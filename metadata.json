@@ -1,0 +1,21 @@
+{
+  "name": "Be VEE - Summer #130",
+  "symbol": "BEVEE",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://sdfs23424cvbcfg45342xgf.xyz/ipfs/bevee/1.jpg",
+  "attributes": [
+ {
+      "trait_type": "PRE-REVEAL",
+      "value": "Loading..."
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
